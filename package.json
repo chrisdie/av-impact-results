@@ -7,7 +7,7 @@
     "@rollup/plugin-buble": "latest",
     "rollup": "latest",
     "rollup-plugin-livereload": "^1.1.0",
-    "rollup-plugin-serve": "^1.0.1"
+    "rollup-plugin-serve": "^1.0.2"
   },
   "watch": {
     "build": {
